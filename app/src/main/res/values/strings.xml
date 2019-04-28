@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Today</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="catagory">
+        <item>Paid work</item>
+        <item>Passion work</item>
+        <item>Professionel development</item>
+        <item>Personal development</item>
+        <item>Relationships</item>
+        <item>Play</item>
+        <item>Wellness</item>
+        <item>Distractions</item>
+        <item>Maintenace</item>
+        <item>Sleep</item>
+    </string-array>
+</resources>
